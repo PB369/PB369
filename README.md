@@ -7,4 +7,4 @@
 
 ## Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,arduino)](https://skillicons.dev)

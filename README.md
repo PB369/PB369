@@ -1,16 +1,16 @@
 <img src="./wallpaper2.jpg">
 
-# About me:
+## About me 📖:
 
 * :earth_americas: São Paulo, SP - Brazil
 * :desktop_computer: Studying Software Engineering at [FIAP](https://www.fiap.com.br/) (2023-2026)
 * :seedling: Apprentice by [Curso em Vídeo](https://www.cursoemvideo.com/) and [Alura](https://www.alura.com.br/)
 
-## Skills:
+## Skills 💻:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,arduino,vite)](https://skillicons.dev)
 
-## Stats:
+## Stats 🪙:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PB369&hide=stars&show_icons=true&theme=react&bg_color=000000&custom_title=My+Profile+Status)](https://github.com/anuraghazra/github-readme-stats)
 

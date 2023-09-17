@@ -10,6 +10,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PB369&hide=stars&show_icons=true&theme=react&bg_color=000000&custom_title=My+Profile+Status)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PB369&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PB369&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PB369&theme=darkhub&column=4&margin-w=15&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)

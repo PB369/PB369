@@ -8,6 +8,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,arduino,vite)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PB369&hide=stars&show_icons=true&theme=vision-friendly-dark&icon_color=FFB000&border_color=FFB000&custom_title=My+Profile+Status)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PB369&hide=stars&show_icons=true&theme=chartreuse-dark&icon_color=FFB000&border_color=FFB000&custom_title=My+Profile+Status)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PB369&theme=darkhub&column=4&margin-w=15&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)

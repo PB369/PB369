@@ -1,4 +1,4 @@
-<img src="./wallpaper2.jpg">
+<img src="./wallpaper1.jpg">
 
 ## 📙 About me:
 

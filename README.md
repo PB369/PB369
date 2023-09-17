@@ -1,4 +1,4 @@
-<img src="./wallpaper.jpg">
+<img src="./wallpaper2.jpg">
 
 # Print("Welcome! :wave:")
 

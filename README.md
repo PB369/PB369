@@ -1,6 +1,6 @@
 <img src="./wallpaper2.jpg">
 
-# Print("Welcome! :wave:")
+# About me:
 
 * :earth_americas: São Paulo, SP - Brazil
 * :desktop_computer: Studying Software Engineering at [FIAP](https://www.fiap.com.br/) (2023-2026)

@@ -11,10 +11,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PB369&hide=stars&show_icons=true&theme=react&bg_color=000000&custom_title=My+Profile+Status)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PB369" />
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=PB369](https://github-readme-stats.vercel.app/api?username=PB369&hide=stars&show_icons=true&theme=react&bg_color=000000&custom_title=My+Profile+Status)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PB369&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=PB369&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=PB369&langs_count=8&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff)" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PB369&langs_count=8&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)

@@ -8,7 +8,7 @@
 
 ## 🖱️ Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,py,arduino,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,py,arduino,vite&perline=4)](https://skillicons.dev)
 
 ## 🌲 Stats:
 

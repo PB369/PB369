@@ -8,7 +8,7 @@
 
 ## 🖱️ Hard Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,py,arduino,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,py,vite)](https://skillicons.dev)
 
 ## 🌲 Stats:
 

@@ -8,7 +8,7 @@
 
 ## 🖱️ Hard Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,java,py,csharp,arduino,mysql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,java,py,cs,arduino,mysql,postman)](https://skillicons.dev)
 
 ## 🌲 Stats:
 

@@ -2,8 +2,8 @@
 
 ## 📙 About me:
 
-* :earth_americas: São Paulo, SP - Brazil
-* :laptop: Studying Software Engineering at [FIAP](https://www.fiap.com.br/) (2023-2026)
+* 🌎 São Paulo, SP - Brazil
+* 🖥️ Studying Software Engineering at [FIAP](https://www.fiap.com.br/) (2023-2026)
 
 ## 🖱️ Hard Skills:
 

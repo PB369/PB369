@@ -4,6 +4,8 @@
 
 * 🌎 São Paulo, SP - Brazil
 * 🖥️ Studying Software Engineering at [FIAP](https://www.fiap.com.br/) (2023-2026)
+* 🌱 Learning every day
+* ✍️ Reach me through pedrohbarros369@gmail.com
 
 ## 🖱️ Hard Skills:
 
